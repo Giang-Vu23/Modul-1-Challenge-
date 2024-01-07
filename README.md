@@ -101,9 +101,6 @@ MODUL 1 - CHALLENGE: [Tencent – WeChat Pay – Mobile Payments]
 * [How is your company performing relative to competitors in the same domain?]
     WeChat Pay serves as WeChat's counterpart to Alipay. It is a mobile payment and digital wallet service seamlessly integrated within the WeChat application. This feature enables users to make quick and convenient payments using their smartphones.
         + Tencent's fight to win mobile payment:  Tencent is aggressively competing to gain control over China's extensive mobile payments market by actively persuading retailers and restaurants to adopt WeChat Pay. However, a recent meeting held in Wuhan revealed challenges faced by Tencent. Restaurant managers voiced complaints about the comparatively high commission fees of WeChat Pay in comparison to its competitor, Alipay. In response, Tencent representatives shifted the focus towards discussing ways in which WeChat Pay could help restaurants reduce other expenses (Osawa, J. 2017).
-        + 
-
-
 
 
 
@@ -117,10 +114,34 @@ Refereces:
 ## RECOMMENDATION
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+    + Integrated Digital Wallet for Global Transactions: Expanding on WeChat Pay, creating an integrated digital wallet that allows users to transact globally, similar to services like PayPal, could enhance user convenience for international payments and e-commerce.
+    + Interactive Virtual Hangout Spaces: Building on the idea of virtual events, creating interactive virtual hangout spaces within WeChat would provide users with a dynamic environment for socializing, gaming, and collaborating in a virtual space, similar to the metaverse concept.
+    + Environmental Sustainability Initiatives:Incorporating features that promote environmental sustainability, such as carbon footprint tracking, eco-friendly lifestyle tips, and partnerships with green initiatives, could align WeChat with socially responsible trends and attract
+    + Community-driven Content Creation Hub: Building a content creation hub within WeChat that allows users to collaboratively create and share content, similar to platforms like TikTok, could tap into the popularity of short-form content and user-generated creativity.
+    + AI-Powered Language Translation: As WeChat has a global user base, integrating AI-powered language translation features can facilitate seamless communication between users speaking different languages.
 
 * Why do you think that offering this product or service would benefit the company?
+    + It would enhance WeChat's versatility, catering to both personal and professional needs. Virtual events have become crucial for business and social interactions, and integrating this feature can keep users engaged within the WeChat ecosystem.
+    + This would not only attract e-commerce businesses to collaborate with WeChat but also create an engaging and interactive shopping environment for users. It aligns with the trend of blending online and offline experiences, providing a unique value proposition.
+    + This would break down language barriers and make WeChat more accessible to an even wider audience. AI technologies can provide real-time, accurate translations, enhancing the platform's utility for international users.
 
 * What technologies would this additional product or service utilise?
-
+    + Environmental Sustainability Initiatives:
+        Technologies: IoT (Internet of Things): Tracking and measuring environmental impact.
+        Data Analytics: Analyzing user behaviors and providing personalized sustainability recommendations.
+        Mobile App Development: Creating a user-friendly interface for eco-friendly lifestyle tracking.
+    + Integrated Digital Wallet for Global Transactions:
+        Technologies:
+          Blockchain: For secure and transparent global transactions.
+          Cryptocurrencies: To facilitate cross-border payments.
+          Biometric Authentication: Enhancing security for financial transactions.
+      
 * Why are these technologies appropriate for your solution?
-
+    + Environmental Sustainability Initiatives:
+        IoT (Internet of Things): Enables real-time tracking and measurement of environmental impact, providing accurate data.
+        Data Analytics: Analyzes user behaviors to offer personalized sustainability recommendations, promoting eco-friendly choices.
+        Mobile App Development: Creates a user-friendly interface for easy adoption and seamless integration into users' daily lives.
+    + Integrated Digital Wallet for Global Transactions:
+        Blockchain: Ensures secure and transparent transactions, reducing fraud and enhancing trust.
+        Cryptocurrencies: Facilitates cross-border transactions, reducing currency conversion complexities.
+        Biometric Authentication: Enhances security, providing a convenient and secure method for user verification.
